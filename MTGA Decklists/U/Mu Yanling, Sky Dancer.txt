@@ -1,0 +1,72 @@
+Commander
+1 Mu Yanling, Sky Dancer (M20) 68
+
+Deck
+1 Dream Eater (GRN) 38
+1 Thassa, Deep-Dwelling (THB) 71
+1 A-Demilich (AFR) 53
+1 Brazen Borrower (ELD) 39
+1 Lithoform Engine (ZNR) 245
+1 Mystic Sanctuary (ELD) 247
+1 Kairi, the Swirling Sky (NEO) 60
+1 Search for Azcanta (XLN) 74
+1 Castle Vantress (ELD) 242
+1 Field of Ruin (XLN) 254
+1 Fabled Passage (ELD) 244
+1 Ghost Quarter (ISD) 240
+1 Evolving Wilds (IKO) 247
+1 Crawling Barrens (ZNR) 262
+1 Reliquary Tower (M19) 254
+1 Narset's Reversal (WAR) 62
+32 Snow-Covered Island (KHM) 278
+1 Cavalier of Gales (M20) 52
+1 Kiora Bests the Sea God (THB) 52
+1 Ascendant Spirit (KHM) 43
+1 Baral, Chief of Compliance (KLR) 42
+1 Metamorphic Alteration (M19) 60
+1 Tale's End (M20) 77
+1 Quasiduplicate (GRN) 51
+1 Midnight Clock (ELD) 54
+1 Leyline of Anticipation (M20) 64
+1 Memory Deluge (MID) 62
+1 Nezahal, Primal Tide (RIX) 45
+1 Gadwick, the Wizened (ELD) 48
+1 Mass Manipulation (RNA) 42
+1 A-Wizard Class (AFR) 81
+1 Narset, Parter of Veils (WAR) 61
+1 Rewind (M21) 63
+1 Kasmina, Enigmatic Mentor (WAR) 56
+1 Brainstorm (STA) 13
+1 Swan Song (THS) 65
+1 Counterspell (STA) 15
+1 Memory Lapse (STA) 16
+1 Spell Pierce (XLN) 81
+1 Opt (STA) 19
+1 A-Goggles of Night (HBG) 120
+1 Consider (MID) 44
+1 Curiosity (JMP) 147
+1 Contentious Plan (WAR) 46
+1 Ominous Seas (IKO) 61
+1 The Modern Age (NEO) 66
+1 Acquisition Octopus (NEO) 44
+1 Slither Blade (AKR) 79
+1 Mist-Cloaked Herald (RIX) 43
+1 Seek New Knowledge (HBG) 36
+1 Shadowspear (THB) 236
+1 Avalanche Caller (KHM) 45
+1 Slippery Scoundrel (RIX) 55
+1 Crystalline Giant (IKO) 234
+1 Network Disruptor (NEO) 71
+1 Key to the Archive (Y22) 59
+1 Choice of Fortunes (Y22) 5
+1 Aether Spellbomb (JMP) 456
+1 Fading Hope (MID) 51
+1 Depart the Realm (KHM) 53
+1 Saw It Coming (KHM) 76
+1 Behold the Multiverse (KHM) 46
+1 Ravenform (KHM) 72
+1 Teferi's Time Twist (WAR) 72
+1 Wash Away (VOW) 87
+1 Disdainful Stroke (GRN) 37
+1 Essence Scatter (IKO) 49
+1 Sublime Epiphany (M21) 74

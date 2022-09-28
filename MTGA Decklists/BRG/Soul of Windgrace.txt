@@ -1,0 +1,83 @@
+Commander
+1 Soul of Windgrace (DMU) 220
+
+Deck
+1 Riveteers Charm (SNC) 217
+6 Mountain (DMU) 280
+9 Forest (DMU) 281
+1 Unleash the Inferno (SNC) 229
+1 Ramunap Excavator (AKR) 211
+1 Crucible of Worlds (M19) 229
+1 Splendid Reclamation (VOW) 221
+1 Elvish Reclaimer (M20) 169
+1 Fabled Passage (ELD) 244
+1 Sporemound (JMP) 433
+1 Tramway Station (SNC) 258
+1 Evolving Wilds (AFR) 256
+1 Cabaretti Courtyard (SNC) 249
+1 Field of Ruin (XLN) 254
+1 Ghost Quarter (ISD) 240
+1 Riveteers Overlook (SNC) 255
+1 Maestros Theater (SNC) 251
+1 Terramorphic Expanse (JMP) 78
+1 Deathsprout (WAR) 189
+1 Binding the Old Gods (KHM) 206
+1 Assassin's Trophy (GRN) 152
+1 Casualties of War (WAR) 187
+1 Haunted Ridge (MID) 263
+1 Dragonskull Summit (XLN) 252
+1 Blightstep Pathway (KHM) 252
+1 Cragcrown Pathway (ZNR) 261
+1 Rootbound Crag (XLN) 256
+1 Rockfall Vale (MID) 266
+1 Underrealm Lich (GRN) 211
+1 Darkbore Pathway (KHM) 254
+1 Deathcap Glade (VOW) 261
+1 Woodland Cemetery (DAR) 248
+1 Lotus Cobra (ZNR) 193
+1 Scute Swarm (ZNR) 203
+1 Arboreal Grazer (WAR) 149
+1 Cavalier of Thorns (M20) 167
+1 Lotus Field (M20) 249
+1 Prosperous Innkeeper (HBG) 221
+1 Liliana, Dreadhorde General (WAR) 97
+1 Zendikar's Roil (JMP) 448
+1 Explore (JMP) 393
+1 Plaza of Heroes (DMU) 252
+1 Reliquary Tower (M19) 254
+1 Command Tower (ELD) 333
+1 Massacre Wurm (M21) 114
+1 Vorinclex, Monstrous Raider (KHM) 199
+1 The Great Henge (ELD) 161
+1 Oracle of Mul Daya (JMP) 415
+1 Azusa, Lost but Seeking (M21) 173
+1 Neheb, Dreadhorde Champion (WAR) 140
+1 Ilysian Caryatid (ANB) 98
+1 Paradise Druid (WAR) 171
+1 Chromatic Lantern (GRN) 233
+1 A-Phylath, World Sculptor (ZNR) 234
+1 A-Druid Class (AFR) 180
+1 Heroic Intervention (M21) 188
+1 Witty Roastmaster (SNC) 131
+1 Shared Summons (M20) 193
+1 Soul Shatter (ZNR) 127
+1 Tireless Provisioner (MH2) 180
+1 Dryad of the Ilysian Grove (THB) 169
+1 Guardian Project (RNA) 130
+1 Etali, Primal Storm (RIX) 100
+1 Basilisk Collar (HBG) 253
+1 Shadowspear (THB) 236
+1 Mirror Shield (THB) 234
+1 Kenrith's Transformation (ELD) 164
+1 Relic of Legends (DMU) 236
+8 Swamp (DMU) 279
+1 Crux of Fate (STA) 25
+1 Blood Money (HBG) 146
+1 Vito, Thorn of the Dusk Rose (M21) 127
+1 Marauding Blight-Priest (ZNR) 112
+1 Threats Undetected (DMU) 185
+1 Call of the Death-Dweller (IKO) 78
+1 Altar of Bhaal (HBG) 139
+1 World Shaper (ANB) 110
+1 Nissa, Who Shakes the World (WAR) 169
+1 Scapeshift (M19) 201
